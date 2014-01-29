@@ -1,0 +1,12 @@
+name: UniversalCredits
+main: me.avery246813579.universalcredits.UniversalCredits
+version: 1.0.0
+author: Avery246813579
+commands:
+  bal:
+    aliases: [balance]
+    description: Displays a players balance.
+  moneylog:
+    description: A money log for Admins.
+  setbal:
+    description: Set a players balance.
